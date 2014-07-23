@@ -1,0 +1,8 @@
+/build/
+/eclipse-build/
+/.classpath
+/.project
+/.gradle/
+/.settings/
+/lib/
+/local-gems/
